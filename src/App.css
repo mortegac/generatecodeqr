@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+figcaption{
+  font-size: .8rem;
+  text-align: center;
+  margin-top: -1`px;
+  color: #3273dc;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
