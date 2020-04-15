@@ -52,20 +52,15 @@ function App() {
                     />
                   </div>
                 </div>
-                
-                {/* <div className="field is-grouped">
-                  <div className="control has-icons-left">
-                    <button 
-                      className="button is-link"
-                      onClick={() => handleSubmit}
-                    >Generar QR</button>
-                  </div>
-                </div> */}
               </div>
             
             </div>
           </article>
-</div>
+        </div>
+        <p class="subtitle is-5 is-size-7">
+          <a className="has-text-light"  target="_blank" href="https://github.com/mortegac">Desarrollado por Manuel Ortega Carcamo</a> <br />
+          <a className="is-size-5 has-text-warning"  target="_blank" href="http://www.recursiva.com.ar/a/">Empresa Recursiva</a>
+        </p>
 
       </header>
     </div>
